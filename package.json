@@ -1,0 +1,26 @@
+{
+  "name": "hapi-jwt",
+  "version": "1.0.0",
+  "description": "Sample Hapi JWT service",
+  "main": "server.js",
+  "keywords": [],
+  "author": "David Moss",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "boom": "^3.1.2",
+    "glob": "^7.0.3",
+    "hapi": "^13.2.1",
+    "hapi-auth-jwt": "^4.0.0",
+    "joi": "^8.0.4",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmoss/hapi-jwt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmoss/hapi-jwt/issues"
+  },
+}
